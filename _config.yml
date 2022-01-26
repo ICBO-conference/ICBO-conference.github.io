@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
 title: International Conference on Biomedical Ontologies
 description: Premier conference on ontologies for Biology, Medicine, Health, Environment, Plants & Agriculture
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
