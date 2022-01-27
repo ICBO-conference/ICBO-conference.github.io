@@ -1,14 +1,13 @@
-## International Conference on Biomedical Ontologies (ICBO)
+# ICBO-conference.github.io
 
-## ICBO Annual Conference Series
-The International Conference on Biomedical Ontologies (ICBO) is a premier annual conference series that brings together researchers, students and professionals involved in the development and application of ontologies in all areas of biology, medicine, diseases, human health, genome biology, environment, biomes, nutrition, food, plants, agriculture and others. Together, they address issues pertaining to coordinated development of ontological resources, data standards, as well as the optimal use of ontologies in applications.
+This repository manages the content for the [International Conference on Biomedical Ontologies (ICBO)](https://icbo-conference.github.io/) website.  
 
-## Upcoming ICBO Confernce:
-The 2022 International Conference of Biomedical Ontologies (ICBO-2022) will be held in 2022 at the University of Michigan, Ann Arbor, MI, USA.  
-Website: [icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022/)
+## Maintenance
+The website is deployed using [GitHub Pages](https://pages.github.com/). It has been configured to use content from the `docs` directory. This setup can be changed by editing the repository's `settings -> pages` configuration.
 
-## Previous ICBO Conferences:
-- 2021: [icbo2021.inf.unibz.it](https://icbo2021.inf.unibz.it/)
-- 2020: [icbo2020.inf.unibz.it](https://icbo2020.inf.unibz.it/)
-- 2018：[icbo2018.cgrb.oregonstate.edu](https://icbo2018.cgrb.oregonstate.edu/)
-- 2019 and others: [icbo.buffalo.edu](http://icbo.buffalo.edu/)
+Changes are made to website's the content by editing the files `docs` directory:
+* [docs/index.md](docs/index.md) contains the default content for the website.
+* [docs/_config.yml](docs/_config.yml) controls the theme of website
+
+## Questions, Requests, Issues
+Please submit questions, requests, or issues using the repository's [issues](https://github.com/ICBO-conference/ICBO-conference.github.io/issues).
