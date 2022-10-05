@@ -11,7 +11,7 @@ The International Conference on Biomedical Ontology (ICBO) is a premier annual c
 To Be Announced
 
 ## Previous ICBO Conferences:
-- 2022: [icbo-conference.github.io/icbo2022](icbo-conference.github.io/icbo2022)
+- 2022: [icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022/)
 - 2021: [icbo2021.inf.unibz.it](https://icbo2021.inf.unibz.it/)
 - 2020: [icbo2020.inf.unibz.it](https://icbo2020.inf.unibz.it/)
 - 2018：[icbo2018.cgrb.oregonstate.edu](https://icbo2018.cgrb.oregonstate.edu/)
