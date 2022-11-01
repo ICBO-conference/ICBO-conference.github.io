@@ -21,3 +21,6 @@ To Be Announced
 - 2015: Lisbon, Portugal [http://icbo2015.fc.ul.pt](http://icbo2015.fc.ul.pt/) ([proceedings](http://ceur-ws.org/Vol-1515/))
 - 2014: Houston, TX, USA ([proceedings](http://ceur-ws.org/Vol-1327/))
 - 2013: Montreal, Canada ([proceedings](http://ceur-ws.org/Vol-1060/))
+- 2012: Graz, Austria ([proceedings](http://ceur-ws.org/Vol-897/))
+- 2011: Buffalo, NY, USA [http://icbo.buffalo.edu/2011](http://icbo.buffalo.edu/2011/) ([proceedings](http://ceur-ws.org/Vol-833/))
+- 2009: Buffalo, NY, USA [http://icbo.buffalo.edu/2009](http://icbo.buffalo.edu/2009/) ([proceedings](https://buffalo.box.com/shared/static/1vxdgn0r35auhzrswdy6kf1vscf7o32c.pdf))
