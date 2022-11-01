@@ -11,11 +11,11 @@ The International Conference on Biomedical Ontology (ICBO) is a premier annual c
 To Be Announced
 
 ## Previous ICBO Conferences:
-- 2022: [icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022/)
-- 2021: [icbo2021.inf.unibz.it](https://icbo2021.inf.unibz.it/) ([proceedings](http://ceur-ws.org/Vol-3073/))
-- 2020: [icbo2020.inf.unibz.it](https://icbo2020.inf.unibz.it/) ([proceedings](http://ceur-ws.org/Vol-2807/))
-- 2019 and others: [icbo.buffalo.edu](http://icbo.buffalo.edu/) ([proceedings](http://ceur-ws.org/Vol-2931/))
-- 2018：[icbo2018.cgrb.oregonstate.edu](https://icbo2018.cgrb.oregonstate.edu/) ([proceedings](http://ceur-ws.org/Vol-2285/))
-- 2017: [https://conferences.ncl.ac.uk/icbo17/](https://conferences.ncl.ac.uk/icbo17/) ([proceedings](http://ceur-ws.org/Vol-2137/))
-- 2016：[icbo2018.cgrb.oregonstate.edu](https://icbo2016.cgrb.oregonstate.edu/) ([proceedings](http://ceur-ws.org/Vol-1747/))
-- 2015: [http://icbo2015.fc.ul.pt/](http://icbo2015.fc.ul.pt/) ([proceedings](http://ceur-ws.org/Vol-1515/))
+- 2022: Ann Arbor, MI, USA [icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022/)
+- 2021: Bolzano, Italy [icbo2021.inf.unibz.it](https://icbo2021.inf.unibz.it/) ([proceedings](http://ceur-ws.org/Vol-3073/))
+- 2020: Bolzano, Italy [icbo2020.inf.unibz.it](https://icbo2020.inf.unibz.it/) ([proceedings](http://ceur-ws.org/Vol-2807/))
+- 2019: Buffalo, NY, USA [icbo.buffalo.edu](http://icbo.buffalo.edu/) ([proceedings](http://ceur-ws.org/Vol-2931/))
+- 2018：Corvallis, OR, USA [icbo2018.cgrb.oregonstate.edu](https://icbo2018.cgrb.oregonstate.edu/) ([proceedings](http://ceur-ws.org/Vol-2285/))
+- 2017: Newcastle, UK [https://conferences.ncl.ac.uk/icbo17/](https://conferences.ncl.ac.uk/icbo17/) ([proceedings](http://ceur-ws.org/Vol-2137/))
+- 2016：Corvallis, OR, USA [icbo2018.cgrb.oregonstate.edu](https://icbo2016.cgrb.oregonstate.edu/) ([proceedings](http://ceur-ws.org/Vol-1747/))
+- 2015: Lisbon, Portugal [http://icbo2015.fc.ul.pt/](http://icbo2015.fc.ul.pt/) ([proceedings](http://ceur-ws.org/Vol-1515/))
