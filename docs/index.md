@@ -11,6 +11,7 @@ The International Conference on Biomedical Ontology (ICBO) is a premier annual c
 To Be Announced
 
 ## Previous ICBO Conferences:
+- 2023: Brasilia, DF, Brazil [icbo-conference.github.io/icbo2023](https://icbo-conference.github.io/icbo2023/)
 - 2022: Ann Arbor, MI, USA [icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022/)
 - 2021: Bolzano, Italy [icbo2021.inf.unibz.it](https://icbo2021.inf.unibz.it/) ([proceedings](http://ceur-ws.org/Vol-3073/))
 - 2020: Bolzano, Italy [icbo2020.inf.unibz.it](https://icbo2020.inf.unibz.it/) ([proceedings](http://ceur-ws.org/Vol-2807/))
