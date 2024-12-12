@@ -9,6 +9,7 @@ The International Conference on Biomedical Ontology (ICBO) is a premier annual c
 
 ## Upcoming ICBO Confernce
 **16th International Conference on Biological and Biomedical Ontology**  
+November 12-15, 2025   
 University of California, Davis, One Shields Avenue, Davis, CA
 
 ## Previous ICBO Conferences
