@@ -14,7 +14,7 @@ November 12-15, 2025
 If holding ICBO in person is not feasible due to funding cuts, ICBO will be hosted virtually. 
 
 ## Previous ICBO Conferences
-- 2024: Enschede, The Netherlands [https://icbo-conference.github.io/icbo2024](https://icbo-conference.github.io/icbo2024/)([proceedings]([url](https://ceur-ws.org/Vol-3939/)))
+- 2024: Enschede, The Netherlands [https://icbo-conference.github.io/icbo2024](https://icbo-conference.github.io/icbo2024/) ([proceedings](https://ceur-ws.org/Vol-3939/))
 - 2023: Brasilia, DF, Brazil [https://www.icbo2023.ncor-brasil.org](https://www.icbo2023.ncor-brasil.org/index.html) ([proceedings](https://ceur-ws.org/Vol-3603/))
 - 2022: Ann Arbor, MI, USA [icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022/) ([proceedings](https://ceur-ws.org/Vol-3805/))
 - 2021: Bolzano, Italy [icbo2021.inf.unibz.it](https://icbo2021.inf.unibz.it/) ([proceedings](http://ceur-ws.org/Vol-3073/))
