@@ -1,6 +1,6 @@
 # ICBO-conference.github.io
 
-This repository manages the content for the [International Conference on Biomedical Ontology (ICBO)](https://icbo-conference.github.io/) website.  
+This repository manages the content for the [International Conference on Biological and Biomedical Ontology (ICBO)](https://icbo-conference.github.io/) website.  
 
 ## Maintenance
 The website is deployed using [GitHub Pages](https://pages.github.com/). It has been configured to use content from the `docs` directory. This setup can be changed by editing the repository's `settings -> pages` configuration.
