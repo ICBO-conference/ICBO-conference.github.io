@@ -9,8 +9,8 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
 
 ## Upcoming ICBO Confernce
 **16th International Conference on Biological and Biomedical Ontology**  
-November 3-9, 2025   
-**Virtual Conference hosted over Zoom**
+November 7-9, 2025   
+**Virtual Conference hosted over Zoom**<br>
 **ICBO 2025 Website**: <a href="https://icbo-conference.github.io/icbo2025/">https://icbo-conference.github.io/icbo2025/</a>
 
 ## Previous ICBO Conferences
