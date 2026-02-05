@@ -9,7 +9,7 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
 
 ## Upcoming ICBO Confernce
 **17th International Conference on Biological and Biomedical Ontology**  
-July 12-16, 2026   
+July 13-18, 2026   
 **Washington DC, USA**<br>
 **Co-host with [ISMB 2026](https://www.iscb.org/ismb2026/home)**
 
