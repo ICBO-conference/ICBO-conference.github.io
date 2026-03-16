@@ -6,8 +6,8 @@ description: Premier conference on for Biology, Medicine, Health, Environment, P
 The International Conference on Biological and Biomedical Ontology (ICBO) is a premier annual conference series that brings together researchers, students and professionals involved in the development and application of ontologies in all areas of biology, medicine, diseases, human health, genome biology, environment, biomes, nutrition, food, plants, agriculture and others. Together, they address issues pertaining to coordinated development of ontological resources, data standards, as well as the optimal use of ontologies in applications.
 
 ## Upcoming ICBO Confernce
-**17th International Conference on Biological and Biomedical Ontology**  
-July 13-18, 2026   
+**[17th International Conference on Biological and Biomedical Ontology](https://icbo-conference.github.io/icbo2026/)** <br>
+**July 13-18, 2026**
 **Washington DC, USA**<br>
 **Co-host with [ISMB 2026](https://www.iscb.org/ismb2026/home)**
 
