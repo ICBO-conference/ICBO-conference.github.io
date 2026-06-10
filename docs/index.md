@@ -12,7 +12,7 @@ The International Conference on Biological and Biomedical Ontology (ICBO) is a p
 **Co-host with [ISMB 2026](https://www.iscb.org/ismb2026/home)**
 
 ## Previous ICBO Conferences
-- 2025: virtual, Bethesda, MD, USA [https://icbo-conference.github.io/icbo2025](https://icbo-conference.github.io/icbo2025/)
+- 2025: virtual, Bethesda, MD, USA [https://icbo-conference.github.io/icbo2025](https://icbo-conference.github.io/icbo2025/) ([proceedings](https://ceur-ws.org/Vol-4194))
 - 2024: Enschede, The Netherlands [https://icbo-conference.github.io/icbo2024](https://icbo-conference.github.io/icbo2024/) ([proceedings](https://ceur-ws.org/Vol-3939/))
 - 2023: Brasilia, DF, Brazil [https://icbo-conference.github.io/icbo2023/](https://icbo-conference.github.io/icbo2023/) ([proceedings](https://ceur-ws.org/Vol-3603/))
 - 2022: Ann Arbor, MI, USA [icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022/) ([proceedings](https://ceur-ws.org/Vol-3805/))
